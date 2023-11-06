@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 
 I wanna be developer who wanna be with
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
