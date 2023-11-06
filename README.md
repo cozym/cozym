@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 <a href="https://kaydaela.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF7F00?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
 
-email : zoqxls65456@gmail.com 
-
 I wanna be developer who wanna be with
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
