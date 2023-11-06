@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+내 블로그
+
+통계
 -->
+[![cozym's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozym)](https://github.com/cozym/github-readme-stats)
