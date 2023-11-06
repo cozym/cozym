@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 통계
 -->
-[![cozym's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozym)](https://github.com/cozym/github-readme-stats)
+[![cozym's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozym&count_private=true&show_icons=true&theme=radical)](https://github.com/cozym/github-readme-stats)
