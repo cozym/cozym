@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 통계
 -->
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Blog?style=flat-square&logo=Tistory&logoColor=000000"/></a>
+<a href="https://kaydaela.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF7F00?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
