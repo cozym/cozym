@@ -13,15 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
-내 블로그
-
-통계
 -->
 <a href="https://kaydaela.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF7F00?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I wanna be developer who wanna be with
 
-[![cozym's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozym&count_private=true&show_icons=true&theme=radical)](https://github.com/cozym/github-readme-stats)
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
