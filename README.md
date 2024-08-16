@@ -20,4 +20,4 @@ I wanna be developer who wanna be with
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozym&layout=compact)](https://github.com/cozym/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozym&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozym&include_all_commits=true&show_icons=true&theme=radical)
