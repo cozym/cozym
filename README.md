@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 I wanna be developer who wanna be with
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozym&layout=compact)](https://github.com/cozym/github-readme-stats)
 
 [![cozym's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozym)](https://github.com/cozym/github-readme-stats)
